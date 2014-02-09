@@ -1,0 +1,1 @@
+This is a rails site for me to track the time I waste in the morning
